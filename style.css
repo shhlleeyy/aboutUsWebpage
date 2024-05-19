@@ -1,0 +1,206 @@
+header{
+    background: gray;
+    height: 500px;
+    top:10px;
+    position: absolute;
+    margin-right: 5px;
+}
+a{
+    text-decoration: none;
+    display: block;
+    color: white;
+}
+a.asb{
+    margin-left: 46%;
+    margin-right: 45%;
+    background: black;
+    color: white;
+    padding: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    text-align: center;
+    z-index: 99;
+    position: absolute;
+    top: 30px;
+}
+.navBar{
+    background: black;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 5%;
+}
+.navBar ul{
+    list-style: none;
+    color: #fff;
+}
+.navBar li{
+    display: inline-block;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 20px;
+    padding: 50px;
+}
+#tagline{
+    font-size: 90px;
+    padding-left: 5px;
+}
+h2, h3{
+    text-align: center  ;
+}
+#similarities{
+    border: solid;
+    border-radius: 10px;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+.similarities li{
+    margin-left: 40%;
+    font-size: 20px;
+}
+.logo{
+    position: absolute;
+    margin-top: 5%;
+    left: 20px;
+    width: 120px;
+    border-radius: 20px;
+    z-index: 99;
+}
+#content{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+}
+#members ul{
+    list-style: none;
+}
+#members li{
+    display: inline-block;
+    margin-left: 17%;
+    font-size: 20px;
+    padding: 10px;
+    border: solid;
+    border-radius: 40px;
+    background: black;
+    color: white;
+}
+.members img{
+    width: 200px;
+}
+td{
+    width: 300px;
+}
+.members{
+    margin-left: 20%;
+    margin-right: 20%;
+    position: relative;
+    margin-top: 20%;
+}
+.name{
+    font-size: 20px;
+}
+footer{
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 10px;
+}
+#asb{
+    border: solid;
+    width: 100%;
+    text-align: center;
+}
+.photo{
+    width: 300px;
+    position: absolute;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding: 50px;
+    top: 50px;
+    margin-left: 3px;
+}
+.lyrics{
+    top: 50px;
+    position: absolute;
+    margin-left: 30%;
+    background: gray;
+    padding-left: 10px;
+    margin-right: 10px;
+    font-size: 17px;
+}
+#title{
+    font-size: 34px;
+}
+.song{
+    background: black;
+    position: absolute;
+    width: 99%;
+    margin-top: 30%;
+}
+#songImg{
+    width: 200px;
+    padding-left: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 10%;
+}
+#song{
+    position: absolute;
+    margin-left: 40%;
+    z-index: 99;
+    top:50%;
+    text-align: center;
+}
+.mySelf{
+    width: 300px;
+    position: absolute;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding: 50px;
+    margin-left: 3px;
+    margin-top: 48%;
+    text-align: center;
+}
+#mySelf{
+    margin-top: 48%;
+    position: absolute;
+    margin-left: 30%;
+    background: gray;
+    padding-left: 10px;
+    margin-right: 10px;
+    font-size: 17px;
+    padding: 20px;
+}
+.TUP{
+    position: relative;
+    margin-top: 60%;
+    background: #f5f5f4;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.TUP h4{
+    font-size: 20px;
+}
+h3.title{
+    font-size: 50px;
+    text-align: center;
+}
+h4.title{
+    font-size: 35px;
+    text-align: center;
+}
+a.landing{
+    background: black;
+    text-align: center;
+    margin-left: 40%;
+    margin-right: 40%;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 15px;
+}
